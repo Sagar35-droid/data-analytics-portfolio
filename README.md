@@ -1,7 +1,7 @@
 
 # 📊 Data Analytics Portfolio
 
-## Sricharan S
+## sagar
 
 **Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Excel**
 
